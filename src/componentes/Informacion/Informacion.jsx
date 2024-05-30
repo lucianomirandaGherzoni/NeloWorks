@@ -2,7 +2,10 @@ import './informacion.css';
 
 const Informacion = () => {
   return (
-    <div className='informacion'>Informacion</div>
+    <>
+       <div className='informacion'>Informacion</div>
+    </>
+ 
   )
 }
 
